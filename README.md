@@ -25,4 +25,5 @@ Academic forum for UnB students, developed with **Django, Python, JavaScript, HT
 
 ## 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/pedro-lopes-da-cunha-/)
+- pedro.lopess.2001@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/pedro-lopes-da-cunha-/)
