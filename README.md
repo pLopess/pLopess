@@ -10,18 +10,10 @@ I have experience with **software development, requirements engineering, and bus
 
 ## 🛠️ Technologies
 
-**Languages:** Python, Java, JavaScript, SQL, C#  
+**Languages:** Python, Java, JavaScript, SQL  
 **Web:** Angular, NestJS, Django, React, HTML, CSS  
 **Databases:** Oracle, SQL Server, MySQL  
-**Tools:** Git, GitHub, Power Apps, Oracle APEX, Unity, Arduino
-
-## 🚀 Featured Projects
-
-### 🎮 Donkey Pilot
-Project developed in Unity, combining **software, hardware and tangible interfaces** through Arduino, infrared sensors and a servo motor.
-
-### 💬 ForUnB
-Academic forum for UnB students, developed with **Django, Python, JavaScript, HTML and CSS**.
+**Tools:** Git, GitHub, Power Apps, Oracle APEX
 
 ## 📫 Connect with me
 
